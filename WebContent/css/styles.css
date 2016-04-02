@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Signika);
+@import url(https://fonts.googleapis.com/css?family=Jura);
 body{
 	background-color: #2c0b79;
 	font-family: 
@@ -8,6 +9,16 @@ h1{
 	margin: 0 auto;
 	text-align: center;
 	padding: 1em 2em 0;
+	font-family: 'Jura', sans-serif;
+	font-weight: 900;
+	color: #fff;
+	text-shadow: 20px 20px 40px #0ff,
+				 -20px -20px 40px #0ff,
+				 -40px -30px 40px #553fc0,
+				 40px -30px 40px #00f,
+				 -40px 30px 40px #11d24b,
+				 40px 30px 40px #400080;
+	
 }
 
 nav ul{
